@@ -1,4 +1,4 @@
-### hui
+### Hey there!
 
 - 🔭 I’m currently building some cool stuff with javascript and solving ctfs, collecting web app security and testing mechanisms.
 - 🌱 I’m currently learning Kernel dev with C and asssembly and some web hacking.

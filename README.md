@@ -6,7 +6,7 @@
 
 ### $whoami
 
-- I'm a student, (currently 16) and interested in tech stuff 🤓
+- I'm a student, (16) and interested in tech stuff 🤓
 - 🔭 I’m building some cool stuff with javascript and golang, collecting web app security and testing mechanisms.
 - 🌱 I’m learning some C to make a freakin kernel someday, but currently reversing binaries ;).
 - 💬 Ask me anything about full stack web development, security or birdwaching, I will be more than happy to help. 

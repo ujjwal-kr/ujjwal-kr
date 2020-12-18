@@ -2,7 +2,7 @@
 
 ## I'm Building the [@hackarmour](https://github.com/hackarmour)
 - We build, distribute and collect hacking, security and testing mechanisms.
-- To join the org, you can text us in [our discord server](https://discord.gg/z7Rvj3b5C5)
+- To join the org, you can text us in [our discord server](https://discord.gg/z7Rvj3b5C5).
 
 ### $whoami
 

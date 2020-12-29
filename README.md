@@ -11,7 +11,7 @@
 - I may create dummy marketing services to demonstrate the (targeted ads) tracking process close to the realworld.
 
 ![Ujjwal's github stats](https://github-readme-stats.vercel.app/api?username=ujjwal-kr&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal-kr)
+
 
 ### $whoami
 

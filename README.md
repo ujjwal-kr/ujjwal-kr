@@ -10,6 +10,9 @@
 - I will make a machine learning algorithm in future which will try to match the encrypted cookies to figure out the target.
 - I may create dummy marketing services to demonstrate the (targeted ads) tracking process close to the realworld.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ujjwal-kr)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### $whoami
 
 - I'm a student, (16) and interested in tech stuff 🤓

@@ -1,4 +1,5 @@
 ### Hey there!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal-kr&label=Views&color=red&style=plastic" alt="Ujjwal" /> </p>
 
 ## I'm Building the [@hackarmour](https://github.com/hackarmour)
 - We build, distribute and collect hacking, security and testing resources and mechanisms.
@@ -14,7 +15,6 @@
 
 
 ### $whoami
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal-kr&label=Views&color=red&style=plastic" alt="Ujjwal" /> </p>
 
 - I'm a student, (16) and interested in tech stuff 🤓
 - 🔭 I’m building some cool stuff with javascript and golang, collecting web app security and testing mechanisms.

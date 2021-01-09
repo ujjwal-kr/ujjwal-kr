@@ -11,8 +11,6 @@
 - I will make a machine learning algorithm in future which will try to match the encrypted cookies to figure out the target.
 - I may create dummy marketing services to demonstrate the (targeted ads) tracking process close to the realworld.
 
-![Ujjwal's github stats](https://github-readme-stats.vercel.app/api?username=ujjwal-kr&show_icons=true&theme=radical)
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
@@ -27,6 +25,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></img>
+
+![Ujjwal's github stats](https://github-readme-stats.vercel.app/api?username=ujjwal-kr&show_icons=true&theme=radical)
 
 
 ### $whoami

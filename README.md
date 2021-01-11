@@ -1,6 +1,6 @@
 ### Hey there!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal-kr&label=Views&color=red&style=plastic" alt="Ujjwal" /> </p>
-
+**If you are reading this, I'm not active on the internet. I won't be there Discord servers, won't respond to emails and messages. My twitter account is available and I may post stuff there. If it's REALLY urgent try to DM me on Twitter or try joining the Hackarmour organization to contact me**
 ## I'm Building the [@hackarmour](https://github.com/hackarmour)
 - We build, distribute and collect hacking, security and testing resources and mechanisms.
 - To join the org, you can text us in [our discord server](https://discord.gg/z7Rvj3b5C5).

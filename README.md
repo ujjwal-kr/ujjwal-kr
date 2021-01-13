@@ -1,8 +1,6 @@
 ### Hey there!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal-kr&label=Views&color=blue&style=plastic" alt="Ujjwal" /> </p>
 
-**If you are reading this, I'm not active on the internet. I won't be there Discord servers, won't respond to emails and messages. My twitter account is available and I may post stuff there. If it's REALLY urgent try to DM me on Twitter or try joining the Hackarmour organization** 
-
 ## I'm Building the [@hackarmour](https://github.com/hackarmour)
 - We build, distribute and collect hacking, security and testing resources and mechanisms.
 - To join the org, you can text us in [our discord server](https://discord.gg/z7Rvj3b5C5).
@@ -38,3 +36,5 @@
 - 🌱 I’m learning some C to make a freakin kernel someday, but currently reversing binaries ;).
 - 💬 Ask me anything about full stack web development, security or birdwaching, I will be more than happy to help. 
 - 📫 How to reach me: You can mail me at ujjwalkumar36@outlook.com, follow me on [Twitter](https://twitter.com/epicujjwal), [LinkedIn](https://www.linkedin.com/in/ujjwal-kumar-057b511b1). Will soon reach back to you.
+
+**If you are reading this, I'm not active on the internet. I won't be there Discord servers, won't respond to emails and messages. My twitter account is available and I may post stuff there. If it's REALLY urgent try to DM me on Twitter or try joining the Hackarmour organization** 

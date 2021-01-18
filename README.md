@@ -6,10 +6,9 @@
 - To join the org, you can text us in [our discord server](https://discord.gg/z7Rvj3b5C5).
 
 ## I'm also working on [EpicTracker (ip-sniff) ](https://github.com/ujjwal-kr/ip-sniff)
-- It is a demonstration project of how can I track you using fingerprinting and some automated lookups and stuff.
-- It uses modern Javascript APIs to intentify your metadata and keeps the information in a cookie, encrypting it.
-- I will make a machine learning algorithm in future which will try to match the encrypted cookies to figure out the target.
-- I may create dummy marketing services to demonstrate the (targeted ads) tracking process close to the realworld.
+- It is a demontstration project of how can I track you using fingerprinting and some automated lookups and stuff.
+- It uses modern Javascript APIs to intentify your metadata and generates an SHA-1 hash based on it. The hash can be used to further identify the browser even after clearing the cache or using the demo in private browsing mode.
+- I may create dummy marketing services in future to demonstrate the (targeted ads) tracking process close to the realworld.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>

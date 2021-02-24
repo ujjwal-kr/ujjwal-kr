@@ -36,4 +36,3 @@
 - 💬 Ask me anything about full stack web development, security or birdwaching, I will be more than happy to help. 
 - 📫 How to reach me: You can mail me at ujjwalkumar36@outlook.com, follow me on [Twitter](https://twitter.com/epicujjwal), [LinkedIn](https://www.linkedin.com/in/ujjwal-kumar-057b511b1). Will soon reach back to you.
 
-**If you are reading this, I'm not active on the internet. I won't be there Discord servers, won't respond to emails and messages. My twitter account is available and I may post stuff there. If it's REALLY urgent try to DM me on Twitter or try joining the Hackarmour organization** 

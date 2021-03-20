@@ -3,12 +3,7 @@
 
 ## I'm Building the [@hackarmour](https://github.com/hackarmour)
 - We build, distribute and collect hacking, security and testing resources and mechanisms.
-- To join the org, you can text us in [our discord server](https://discord.gg/z7Rvj3b5C5).
-
-## I'm also working on [EpicTracker (ip-sniff) ](https://github.com/ujjwal-kr/ip-sniff)
-- It is a demontstration project of how can I track you using fingerprinting and some automated lookups and stuff.
-- It uses modern Javascript APIs to intentify your metadata and generates an SHA-1 hash based on it. The hash can be used to further identify the browser even after clearing the cache or using the demo in private browsing mode.
-- I may create dummy marketing services in future to demonstrate the (targeted ads) tracking process close to the realworld.
+- To join the org, you can text us in [our discord server](https://discord.gg/z7Rvj3b5C5)
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>

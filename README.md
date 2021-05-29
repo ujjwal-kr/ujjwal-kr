@@ -3,7 +3,8 @@
 
 ## I'm Building the [@hackarmour](https://github.com/hackarmour)
 - We build, distribute and collect hacking, security and testing resources and mechanisms.
-- To join the org, you can text us in [our discord server](https://discord.gg/z7Rvj3b5C5)
+- We are currently making Hack Armour Infosec search engine.
+- To join Hack armour, https://discord.gg/mPvMfzXGu6 yeah this is how you kinda join it.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>

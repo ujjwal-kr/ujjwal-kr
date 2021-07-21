@@ -23,8 +23,8 @@
 
 ![Ujjwal's github stats](https://github-readme-stats.vercel.app/api?username=ujjwal-kr&show_icons=true&theme=radical)
 
-https://github-profile-trophy.vercel.app/?username=ujjwal-kr&column=3&theme=onedark
-### $whoami
+![stats](https://github-profile-trophy.vercel.app/?username=ujjwal-kr&column=3&theme=onedark
+### $whoami)
 
 - I'm a student, (16) and interested in tech stuff 🤓
 - 🔭 I’m building some cool stuff with javascript and golang, collecting web app security and testing mechanisms.

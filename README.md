@@ -4,7 +4,10 @@
 ## I'm Building the [@hackarmour](https://github.com/hackarmour)
 - We build, distribute and collect hacking, security and testing resources and mechanisms.
 - We are currently making Hack Armour Infosec search engine.
-- To join Hack armour, https://discord.gg/mPvMfzXGu6 yeah this is how you kinda join it.
+- To join Hack armour, https://dsc.gg/hackarmour yeah this is how you kinda join it.
+
+## Starting [@kekwLabs](https://GitHub.com/kekwLabs)
+KekwLabs is a community of people interested in computer science research and implementation of papers. Join the Discord at https://dsc.gg/kekwLabs.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>

@@ -27,7 +27,7 @@ KekwLabs is a community of people interested in computer science research and im
 ![Ujjwal's github stats](https://github-readme-stats.vercel.app/api?username=ujjwal-kr&show_icons=true&theme=radical)
 
 
-- I'm a student, (16) and interested in tech stuff 🤓
+- I'm a student, (17) and interested in tech stuff 🤓
 - 🔭 I’m building some cool stuff with javascript and golang, collecting web app security and testing mechanisms.
 - 🌱 I’m learning some Reverse Engineering to better understand computer programs and malwares.
 - 💬 Ask me anything about full stack web development, security or birdwaching, I will be more than happy to help. 

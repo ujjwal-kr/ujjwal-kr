@@ -34,10 +34,8 @@ KekwLabs is a community of people interested in computer science research and im
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
-
 - I'm a student, (17) and interested in tech stuff 🤓
-- 🔭 I’m building some cool stuff with javascript and golang, collecting web app security and testing mechanisms.
+- 🔭 I’m building some stuff with javascript and golang, planning to learn some electronics.
 - 🌱 I’m learning some Reverse Engineering to better understand computer programs and malwares.
 - 💬 Ask me anything about full stack web development, security or birdwaching, I will be more than happy to help. 
 - 📫 How to reach me: You can mail me at epicujjwal@protonmail.com, follow me on [Twitter](https://twitter.com/epicujjwal), [LinkedIn](https://www.linkedin.com/in/ujjwal-kumar-057b511b1). Will soon reach back to you.

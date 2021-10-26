@@ -1,5 +1,5 @@
 ### Hey there!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal-kr&label=Views&color=blue&style=plastic" alt="Ujjwal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal-kr&label=Views&color=green&style=plastic" alt="Ujjwal" /> </p>
 
 ## I'm Building the [@hackarmour](https://github.com/hackarmour)
 - We build, distribute and collect hacking, security and testing resources and mechanisms.
@@ -9,6 +9,7 @@
 ## Starting [@kekwLabs](https://GitHub.com/kekwLabs)
 KekwLabs is a community of people interested in computer science research and implementation of papers. Join the Discord at https://dsc.gg/kekwLabs.
 
+### Some Tech I work with:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
@@ -24,8 +25,17 @@ KekwLabs is a community of people interested in computer science research and im
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></img>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Ujjwal's github stats](https://github-readme-stats.vercel.app/api?username=ujjwal-kr&show_icons=true&theme=radical)
+### Stuff I use:
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+
 
 
 - I'm a student, (17) and interested in tech stuff 🤓

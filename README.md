@@ -2,8 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal-kr&label=Views&color=green&style=plastic" alt="Ujjwal" /> </p>
 
 ## I'm Building the [@hackarmour](https://github.com/hackarmour)
-- We build, distribute and collect hacking, security and testing resources and mechanisms.
-- We are currently making Hack Armour Infosec search engine.
+- Found in late 2020, we distribute and collect hacking, security and testing resources and mechanisms. Currently building an infosec search engine.
+- I'm the founder and lead of the product teams and building and maintaining the engine.
 - To join Hack armour, https://dsc.gg/hackarmour yeah this is how you kinda join it.
 
 ## Starting [@kekwLabs](https://GitHub.com/kekwLabs)

@@ -6,9 +6,6 @@
 - I'm the founder and lead of the product teams and building and maintaining the engine.
 - To join Hack armour, https://dsc.gg/hackarmour yeah this is how you kinda join it.
 
-## Starting [@kekwLabs](https://GitHub.com/kekwLabs)
-KekwLabs is a community of people interested in computer science research and implementation of papers. Join the Discord at https://dsc.gg/kekwLabs.
-
 ### Some Tech I work with:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
@@ -35,6 +32,9 @@ KekwLabs is a community of people interested in computer science research and im
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<br>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ujjwal-kr&theme=github_dark)
 
 - I'm a student, (17) and interested in tech stuff 🤓
 - 🔭 I’m building some stuff with javascript and golang, planning to learn some electronics.

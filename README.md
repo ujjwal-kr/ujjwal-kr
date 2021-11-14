@@ -35,6 +35,9 @@
 <br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ujjwal-kr&theme=github_dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal-kr&theme=github-dark">
+
+![separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 - I'm a student, (17) and interested in tech stuff 🤓
 - 🔭 I’m building some stuff with javascript and golang, planning to learn some electronics.

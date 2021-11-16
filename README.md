@@ -4,7 +4,7 @@
 ## I'm Building the [@hackarmour](https://github.com/hackarmour)
 - Found in late 2020, we distribute and collect hacking, security and testing resources and mechanisms. Currently building an infosec search engine.
 - I'm the founder and lead of the product teams and building and maintaining the engine.
-- To join Hack armour, https://dsc.gg/hackarmour yeah this is how you kinda join it.
+
 
 ### Some Tech I work with:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>

@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal-kr&label=Views&color=green&style=plastic" alt="Ujjwal" /> </p>
 
 ## I'm Building the [@hackarmour](https://github.com/hackarmour)
-- Found in late 2020, we distribute and collect hacking, security and testing resources and mechanisms. Currently building an infosec search engine.
+- We collect cybersecurity resources and organize CTFs. Currently building an infosec search engine.
 - I'm the founder and lead of the product teams and building and maintaining the engine.
 
 

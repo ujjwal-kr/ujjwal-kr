@@ -41,7 +41,7 @@
 
 ![separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-- I'm a student, (17) and interested in tech stuff 🤓
+- I'm a student, (17) and interested in computer science.
 - 🔭 I’m building web apps with javascript and golang.
 - 🌱 I’m learning some Reverse Engineering to better understand computer programs and malwares.
 - 💬 Ask me anything about full stack web development, security or birdwaching, I will be more than happy to help. 

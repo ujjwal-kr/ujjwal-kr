@@ -43,7 +43,7 @@
 
 - I'm a student, (17) and interested in computer science.
 - 🔭 I’m building web apps with javascript and golang.
-- 🌱 I’m learning some Reverse Engineering to better understand computer programs and malwares.
+- 🌱 I’m learning systems programming to create robust software.
 - 💬 Ask me anything about full stack web development, security or birdwaching, I will be more than happy to help. 
 - 📫 How to reach me: You can mail me at epicujjwal@protonmail.com, follow me on [Twitter](https://twitter.com/epicujjwal), [LinkedIn](https://www.linkedin.com/in/ujjwal-kumar-057b511b1). Will soon reach back to you.
 

@@ -1,8 +1,11 @@
 ![pp](https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif)
 
-## I'm Building the [@hackarmour](https://github.com/hackarmour)
-- We collect cybersecurity resources and organize CTFs. Currently building an infosec search engine.
-- I'm the founder and lead of the product teams and building and maintaining the engine.
+## What I'm working on.
+- Found the [hackarmour](https://github.com/hackarmour) and leading it's engineering and management team to make an infosec search engine and organizing awesome CTFs
+- Working on [Night Protocol](https://night-protocol.netlify.app/explore) to explore
+blockchain internals and potential research in decentralised embedded systems
+- Mastering microservices
+- Winning terrible compiler engineering
 
 
 ### Some Tech I work with:
@@ -40,9 +43,8 @@
 
 ![separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-- I'm a student, (17) and interested in computer science.
-- 🔭 I’m building web apps with javascript and golang.
-- 🌱 I’m learning compiler design to make programming languages.
-- 💬 Ask me anything about full stack web development or security, I will be more than happy to help. 
-- 📫 How to reach me: You can mail me at epicujjwal@protonmail.com, follow me on [Twitter](https://twitter.com/epicujjwal), [LinkedIn](https://www.linkedin.com/in/ujjwal-kumar-057b511b1). Will soon reach back to you.
+
+
+
+- 📫 You can mail me at epicujjwal@protonmail.com, follow me on [Twitter](https://twitter.com/epicujjwal), [LinkedIn](https://www.linkedin.com/in/ujjwal-kumar-057b511b1). Will soon reach back to you.
 

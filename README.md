@@ -1,7 +1,7 @@
 ![pp](https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif)
 
 ## What I'm working on.
-- Found the [hackarmour](https://github.com/hackarmour) and leading it's engineering and management team, making an infosec search engine and organizing awesome CTFs
+- Found the [hackarmour](https://github.com/hackarmour) and leading it's engineering team, making an infosec search engine and organizing CTFs
 - Making the [ram programming language](https://github.com/ujjwal-kr/ram) to learn about compiler enngineering
 - Working on [hackathon-starter](https://github.com/ujjwal-kr/hackathon-starter) to help me quickly spin up a MERN app.
 

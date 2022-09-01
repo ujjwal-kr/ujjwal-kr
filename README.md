@@ -2,11 +2,8 @@
 
 ## What I'm working on.
 - Found the [hackarmour](https://github.com/hackarmour) and leading it's engineering and management team, making an infosec search engine and organizing awesome CTFs
-- Working on [Night Protocol](https://night-protocol.netlify.app/explore) to explore
-blockchain internals and potential research fields in decentralised embedded systems
-- Mastering microservices
-- Winning terrible compiler engineering
-
+- Making the [ram programming language](https://github.com/ujjwal-kr/ram) to learn about compiler enngineering
+- Working on [hackathon-starter](https://github.com/ujjwal-kr/hackathon-starter) to help me quickly spin up a MERN app.
 
 ### Some Tech I work with:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>

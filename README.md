@@ -3,7 +3,19 @@
 ## What I'm working on.
 - Found the [hackarmour](https://github.com/hackarmour) and leading it's engineering team, making an infosec search engine and organizing CTFs.
 - Making the [ram programming language](https://github.com/ujjwal-kr/ram) to learn about compiler enngineering.
-- Working on [hackathon-starter](https://github.com/ujjwal-kr/hackathon-starter) to help me quickly spin up a MERN app.
+
+```csharp
+ujjwal@fedora
+------------------
+       OS  :  fedora x86_64
+       WM  :  Xfwm4
+    Shell  :  bash 5.1
+ Terminal  :  alacritty
+Languages  :  Js/Ts, Rust, Go, C/C++
+Interests  :  Compilers, Malware & Blockchain
+     Mail  :  epicujjwal@protonmail.com
+  Twitter  :  @epicujjwal
+```
 
 ### Some Tech I work with:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
@@ -29,10 +41,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ujjwal-kr&theme=github_dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal-kr&theme=github-dark">
 
-![separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
 
-
-- 📫 You can mail me at epicujjwal@protonmail.com, follow me on [Twitter](https://twitter.com/epicujjwal) or [LinkedIn](https://www.linkedin.com/in/epicujjwal). Will soon reach back to you.
+You can mail me at epicujjwal@protonmail.com, follow me on [Twitter](https://twitter.com/epicujjwal) or [LinkedIn](https://www.linkedin.com/in/epicujjwal). Will soon reach back to you.
 

@@ -5,12 +5,13 @@
 - Making the [ram programming language](https://github.com/ujjwal-kr/ram) to learn about compiler enngineering.
 
 ```csharp
-ujjwal@fedora
+ujjwal@AME
 ------------------
-       OS  :  fedora x86_64
-       WM  :  Xfwm4
-    Shell  :  bash 5.1
- Terminal  :  alacritty
+       OS  :  Windows x64
+       WM  :  dwm.exe
+    Shell  :  powershell
+ Terminal  :  windows terminal
+Hypervisor :  Vagrant with Virtualbox
 Languages  :  Js/Ts, Rust, Go, C/C++
 Interests  :  Compilers, Malware & Blockchain
      Mail  :  epicujjwal@protonmail.com

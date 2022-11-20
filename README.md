@@ -1,5 +1,5 @@
-![pp](https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif)
 
+![image](https://user-images.githubusercontent.com/38783809/202891045-2e72fbfc-4f40-45c0-9ceb-93155ed8de58.png)
 ## What I'm working on.
 - Found the [hackarmour](https://github.com/hackarmour) and leading it's engineering team, making an infosec search engine and organizing CTFs.
 - Making the [ram programming language](https://github.com/ujjwal-kr/ram) to learn about compiler enngineering.

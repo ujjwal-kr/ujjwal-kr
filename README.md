@@ -44,7 +44,4 @@ Interests  :  Compilers, Malware & Blockchain
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal-kr&theme=github-dark">
 
 
-
-
-You can mail me at epicujjwal@protonmail.com, follow me on [Twitter](https://twitter.com/epicujjwal) or [LinkedIn](https://www.linkedin.com/in/epicujjwal). Will soon reach back to you.
-
+You can mail me at epicujjwal@protonmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/epicujjwal). Will soon reach back to you.

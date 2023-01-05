@@ -1,5 +1,5 @@
 
-![image](https://i.stack.imgur.com/KGDbz.png)
+![image](https://media.discordapp.net/attachments/936106022576201769/1060467902404366357/image.png)
 ## What I'm working on.
 - Found the [hackarmour](https://github.com/hackarmour) and leading it's engineering team, making an infosec search engine and organizing CTFs.
 - Making the [ram programming language](https://github.com/ujjwal-kr/ram) to learn about compiler engineering.

@@ -4,6 +4,7 @@
 - Found the [hackarmour](https://github.com/hackarmour) and leading it's engineering team, making an infosec search engine and organizing CTFs.
 - Making the [ram programming language](https://github.com/ujjwal-kr/ram) to learn about compiler engineering.
 - Leading a team of friends at [OurCode](https://github.com/ourcodeorg/ourcode) to make a project collaboration platform.
+- Recently made a [brainf compiler](https://github.com/ujjwal-kr/brainf) in 24 hours as a challenge.
 
 ```csharp
 ujjwal@AME

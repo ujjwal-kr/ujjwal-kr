@@ -5,7 +5,7 @@
 - Making a [Redis Clone](https://github.com/ujjwal-kr/codecrafters-redis-rust) with an async runtime, and support for basic commands.
 - Leading a team of friends at [OurCode](https://github.com/ourcodeorg/ourcode) to make a project collaboration platform.
 - Recently made a [brainf compiler](https://github.com/ujjwal-kr/brainf) in 24 hours as a challenge.
-- Working on the [ram programming language](https://github.com/ujjwal-kr/ram)
+- Working on the [ram programming language](https://github.com/ujjwal-kr/ram).
 
 ```csharp
 ujjwal@AME

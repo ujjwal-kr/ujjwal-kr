@@ -3,7 +3,7 @@
 ## What I'm working on.
 - Found the [hackarmour](https://github.com/hackarmour) and leading it's engineering team, making an infosec search engine and organizing CTFs.
 - Leading a team of friends at [OurCode](https://github.com/ourcodeorg/ourcode) to make a project collaboration platform, written in fullstack typescript.
-- Writing on [CrackHead Systems](https://crackhead-systems.vercel.app/)
+- Writing on [CrackHead Systems](https://crackhead-systems.vercel.app/).
 
 ## Recent Work
 - Made a stack based [programming language](https://github.com/ujjwal-kr/ram) in rust.

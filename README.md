@@ -8,6 +8,7 @@
 ## Recent Work
 - Made a stack based [programming language](https://github.com/ujjwal-kr/ram) in rust.
 - Made a [Brain F*** Compiler](https://github.com/ujjwal-kr/brainf) with C++ in 24 hours.
+- [A garbage collector in 2 hours](https://github.com/ujjwal-kr/gc-experiment).
 - A [Redis Clone](https://github.com/ujjwal-kr/redis-rust) with and async runtime and support for basic commands in rust. 
 - A [blockchain protocol](https://github.com/ujjwal-kr/night) in rust and nextjs from scratch.
 

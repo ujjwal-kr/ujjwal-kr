@@ -2,6 +2,7 @@
 ![image](https://media.discordapp.net/attachments/936106022576201769/1060467902404366357/image.png)
 ## What I'm working on.
 - Found the [hackarmour](https://github.com/hackarmour) and leading it's engineering team, making an infosec search engine and organizing CTFs.
+- Wroking on a in-memory [database](https://github.com/ujjwal-kr/appledore) compatible with redis with more minimal and specific features, for use in the hackarmour search engine.
 - Leading a team of friends at [OurCode](https://github.com/ourcodeorg/ourcode) to make a project collaboration platform, written in fullstack typescript.
 - Writing on [CrackHead Systems](https://crackhead-systems.vercel.app/).
 
@@ -9,7 +10,6 @@
 - Made a stack based [programming language](https://github.com/ujjwal-kr/ram) in rust.
 - Made a [Brain F*** Compiler](https://github.com/ujjwal-kr/brainf) with C++ in 24 hours.
 - [A garbage collector in 2 hours](https://github.com/ujjwal-kr/gc-experiment).
-- A [Redis Clone](https://github.com/ujjwal-kr/redis-rust) with and async runtime and support for basic commands in rust. 
 - A [blockchain protocol](https://github.com/ujjwal-kr/night) in rust and nextjs from scratch.
 
 ```csharp

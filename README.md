@@ -2,7 +2,6 @@
 ![image](https://media.discordapp.net/attachments/936106022576201769/1060467902404366357/image.png)
 ## What I'm working on.
 - Found the [hackarmour](https://github.com/hackarmour) and leading its engineering team, making an infosec search engine and organizing CTFs.
-- Wroking on an [in-memory DB](https://github.com/ujjwal-kr/appledore) as a caching layer in the hackarmour search engine.
 - Leading a team of friends at [OurCode](https://github.com/ourcodeorg/ourcode) to make a project collaboration platform, written in fullstack typescript.
 - Writing on [CrackHead Systems](https://crackhead-systems.vercel.app/).
 

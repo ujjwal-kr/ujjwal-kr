@@ -1,16 +1,20 @@
 
 ![image](https://media.discordapp.net/attachments/936106022576201769/1060467902404366357/image.png)
 ## What I'm working on.
-- Found the [hackarmour](https://github.com/hackarmour) and leading it's engineering team, making an infosec search engine and organizing CTFs.
-- Wroking on an [in-memory DB](https://github.com/ujjwal-kr/appledore) for use as a caching layer in the hackarmour search engine.
+- Found the [hackarmour](https://github.com/hackarmour) and leading its engineering team, making an infosec search engine and organizing CTFs.
+- Wroking on an [in-memory DB](https://github.com/ujjwal-kr/appledore) as a caching layer in the hackarmour search engine.
 - Leading a team of friends at [OurCode](https://github.com/ourcodeorg/ourcode) to make a project collaboration platform, written in fullstack typescript.
 - Writing on [CrackHead Systems](https://crackhead-systems.vercel.app/).
 
-## Recent Work
-- Made a stack based [programming language](https://github.com/ujjwal-kr/ram) in rust.
+## My Work Ranked By Coolness:
+- Made a stack based [programming language](https://github.com/ujjwal-kr/ram) in Rust.
+- Architected and implemented most of the [Hackarmour Search Engine](https://hackarmour.github.io/whitepaper/Hackarmour.pdf) [WIP].
+- A full stack positive [News App](https://github.com/ujjwal-kr/positive-vibes) with the MERN stack.
+- A blazingly fast [in-memory database](https://github.com/ujjwal-kr/appledore) implemented in rust.
 - Made a [Brain F*** Compiler](https://github.com/ujjwal-kr/brainf) with C++ in 24 hours.
-- [A garbage collector in 2 hours](https://github.com/ujjwal-kr/gc-experiment).
 - A [blockchain protocol](https://github.com/ujjwal-kr/night) in rust and nextjs from scratch.
+- Built and led a [project collaboration platform](https://github.com/ourcodeorg/ourcode) (Nodejs + Nextjs + TypeScript).
+- [A garbage collector in 2 hours](https://github.com/ujjwal-kr/gc-experiment).
 
 ```csharp
 ujjwal@AME

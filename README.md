@@ -15,6 +15,7 @@
 - A [blockchain protocol](https://github.com/ujjwal-kr/night) in rust and nextjs from scratch.
 - Built and led a [project collaboration platform](https://github.com/ourcodeorg/ourcode) (Nodejs + Nextjs + TypeScript).
 - [A garbage collector in 2 hours](https://github.com/ujjwal-kr/gc-experiment).
+- [Sussy Malware](https://github.com/ujjwal-kr/sussy-malware)
 
 ```csharp
 ujjwal@AME

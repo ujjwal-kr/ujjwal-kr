@@ -1,5 +1,5 @@
 
-![image](https://media.discordapp.net/attachments/936106022576201769/1060467902404366357/image.png)
+![image](https://media.discordapp.net/attachments/936106022576201769/1121565412455350363/image.png)
 ## What I'm working on.
 - Found the [hackarmour](https://github.com/hackarmour) and leading its engineering team, making an infosec search engine and organizing CTFs.
 - Leading a team of friends at [OurCode](https://github.com/ourcodeorg/ourcode) to make a project collaboration platform, written in fullstack typescript.

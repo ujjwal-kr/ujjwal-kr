@@ -15,7 +15,7 @@
 - Built and led a [project collaboration platform](https://github.com/ourcodeorg/ourcode) (Nodejs + Nextjs + TypeScript).
 - Browser fingerprinting proof of concept: [Epictracker](https://github.com/ujjwal-kr/epictracker) (Js/Nodejs).
 - [A garbage collector in 2 hours](https://github.com/ujjwal-kr/gc-experiment).
-- [Sussy Malware](https://github.com/ujjwal-kr/sussy-malware)
+- [Sussy Malware](https://github.com/ujjwal-kr/sussy-malware): A malware written in rust for hackarmour ctf.
 
 ```csharp
 ujjwal@AME

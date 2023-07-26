@@ -13,6 +13,7 @@
 - Made a [Brain F*** Compiler](https://github.com/ujjwal-kr/brainf) with C++ in 24 hours.
 - A [blockchain protocol](https://github.com/ujjwal-kr/night) in rust and nextjs from scratch.
 - Built and led a [project collaboration platform](https://github.com/ourcodeorg/ourcode) (Nodejs + Nextjs + TypeScript).
+- [Bitcoin CLI](https://github.com/ujjwal-kr/bitcoin-cli) to manage BIP39 Wallets (Nodejs).
 - Browser fingerprinting proof of concept: [Epictracker](https://github.com/ujjwal-kr/epictracker) (Js/Nodejs).
 - [A garbage collector in 2 hours](https://github.com/ujjwal-kr/gc-experiment).
 - [Sussy Malware](https://github.com/ujjwal-kr/sussy-malware): A malware written in rust for hackarmour ctf.

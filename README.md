@@ -30,6 +30,7 @@ Languages  :  Js/Ts, Rust, Go, C/C++
 Interests  :  Compilers, Malware & Blockchain
      Mail  :  epicujjwal@protonmail.com
   Twitter  :  @epicujjwal
+  Discord  :  @epicujjwal
 ```
 
 ### Some Tech I work with:
@@ -59,5 +60,3 @@ Interests  :  Compilers, Malware & Blockchain
 
 
 You can mail me at epicujjwal@protonmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/epicujjwal). Will soon reach back to you.
-
-Discord: Holy Spirit#5707

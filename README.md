@@ -19,13 +19,13 @@
 - [Sussy Malware](https://github.com/ujjwal-kr/sussy-malware): A malware written in rust for hackarmour ctf.
 
 ```csharp
-ujjwal@AME
+ujjwal@win
 ------------------
        OS  :  Windows x64
        WM  :  dwm.exe
     Shell  :  powershell
  Terminal  :  windows terminal
-Hypervisor :  Vagrant with Virtualbox
+Dev Env    :  WSL 2
 Languages  :  Js/Ts, Rust, Go, C/C++
 Interests  :  Compilers, Malware & Blockchain
      Mail  :  epicujjwal@protonmail.com

@@ -56,7 +56,7 @@ Interests  :  Compilers, Malware & Blockchain
 <br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ujjwal-kr&theme=github_dark)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal-kr&theme=github-dark">
+<img src="https://streak-stats.demolab.com/?user=ujjwal-kr&theme=dark">
 
 
 You can mail me at epicujjwal@protonmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/epicujjwal). Will soon reach back to you.

@@ -1,12 +1,11 @@
 
 ![image](https://media.discordapp.net/attachments/936106022576201769/1121565412455350363/image.png)
 ## What I'm working on.
-- Found the [hackarmour](https://github.com/hackarmour) and leading its engineering team, making an infosec search engine and organizing CTFs.
-- Leading a team of friends at [OurCode](https://github.com/ourcodeorg/ourcode) to make a project collaboration platform, written in fullstack typescript.
+- Working on [hackarmour](https://github.com/hackarmour), leading its engineering team, making an infosec search engine, and organizing CTFs.
 - Writing on [CrackHead Systems](https://crackhead-systems.vercel.app/).
 
 ## My Work Ranked By Coolness:
-- Made a stack based [programming language](https://github.com/ujjwal-kr/ram) in Rust.
+- Made a stack-based [programming language](https://github.com/ujjwal-kr/ram) in Rust.
 - Architected and implemented most of the [Hackarmour Search Engine](https://hackarmour.github.io/whitepaper/Hackarmour.pdf) [WIP].
 - A full stack positive [News App](https://github.com/ujjwal-kr/positive-vibes) with the MERN stack.
 - A blazingly fast [in-memory database](https://github.com/ujjwal-kr/appledore) implemented in rust.

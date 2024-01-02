@@ -24,7 +24,7 @@ ujjwal@win
        WM  :  dwm.exe
     Shell  :  powershell
  Terminal  :  windows terminal
-Dev Env    :  Arch with VMWare
+Dev Env    :  Mint with VMWare
 Languages  :  Js/Ts, Rust, Go, C/C++
 Interests  :  Compilers, Malware & Blockchain
      Mail  :  epicujjwal@protonmail.com

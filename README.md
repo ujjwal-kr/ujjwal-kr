@@ -1,13 +1,14 @@
 
 ![image](https://media.discordapp.net/attachments/936106022576201769/1121565412455350363/image.png)
 ## What I'm working on.
-- Working on [hackarmour](https://github.com/hackarmour), leading its engineering team, making an infosec search engine, and organizing CTFs.
+- Researching on Intrusion detection methods.
+- Making [CVM](https://github.com/ujjwal-kr/cvm).
 - Writing on [CrackHead Systems](https://crackhead-systems.vercel.app/).
 
 ## My Work Ranked By Coolness:
 - **[Ram Programming Language](https://github.com/ujjwal-kr/ram)**: A programming language written in Rust.
 - **[Hackarmour Search Engine (Whitepaper)](https://zenodo.org/records/10569830)**: Design of a distributed search engine for information security.
-- **[Appledore](https://github.com/ujjwal-kr/appledore)** A blazingly fast in-memory database implemented in rust.
+- **[Appledore](https://github.com/ujjwal-kr/appledore)**: A blazingly fast in-memory database implemented in rust.
 - **[Positive Vibes](https://github.com/ujjwal-kr/positive-vibes)**: News app with parental controls implemented using the MERN stack.
 - **[Brain F*** Compiler](https://github.com/ujjwal-kr/brainf)**: with C++ in 24 hours.
 - **[Night Protocol](https://github.com/ujjwal-kr/night)** A blockchain protocol in rust and nextjs from scratch.

@@ -5,17 +5,16 @@
 - Writing on [CrackHead Systems](https://crackhead-systems.vercel.app/).
 
 ## My Work Ranked By Coolness:
-- Made a stack-based [programming language](https://github.com/ujjwal-kr/ram) in Rust.
-- Architected and implemented most of the [Hackarmour Search Engine](https://hackarmour.github.io/whitepaper/Hackarmour.pdf) [WIP].
-- A full stack positive [News App](https://github.com/ujjwal-kr/positive-vibes) with the MERN stack.
-- A blazingly fast [in-memory database](https://github.com/ujjwal-kr/appledore) implemented in rust.
-- Made a [Brain F*** Compiler](https://github.com/ujjwal-kr/brainf) with C++ in 24 hours.
-- A [blockchain protocol](https://github.com/ujjwal-kr/night) in rust and nextjs from scratch.
-- Built and led a [project collaboration platform](https://github.com/ourcodeorg/ourcode) (Nodejs + Nextjs + TypeScript).
-- [Bitcoin CLI](https://github.com/ujjwal-kr/bitcoin-cli) to manage BIP39 Wallets (Nodejs).
-- Browser fingerprinting proof of concept: [Epictracker](https://github.com/ujjwal-kr/epictracker) (Js/Nodejs).
-- [A garbage collector in 2 hours](https://github.com/ujjwal-kr/gc-experiment).
-- [Sussy Malware](https://github.com/ujjwal-kr/sussy-malware): A malware written in rust for hackarmour ctf.
+- **[Ram Programming Language](https://github.com/ujjwal-kr/ram)**: A programming language written in Rust.
+- **[Hackarmour Search Engine (Whitepaper)](https://zenodo.org/records/10569830)**: Design of a distributed search engine for information security.
+- **[Appledore](https://github.com/ujjwal-kr/appledore)** A blazingly fast in-memory database implemented in rust.
+- **[Positive Vibes](https://github.com/ujjwal-kr/positive-vibes)**: News app with parental controls implemented using the MERN stack.
+- **[Brain F*** Compiler](https://github.com/ujjwal-kr/brainf)**: with C++ in 24 hours.
+- **[Night Protocol](https://github.com/ujjwal-kr/night)** A blockchain protocol in rust and nextjs from scratch.
+- **[Bitcoin CLI](https://github.com/ujjwal-kr/bitcoin-cli)**: CLI to manage BIP39 Wallets (Nodejs).
+- **[Epictracker](https://github.com/ujjwal-kr/epictracker)**: Browser fingerprinting proof of concept: (Js/Nodejs).
+- **[A garbage collector](https://github.com/ujjwal-kr/gc-experiment)**: with C++ in 2 hours.
+- **[Sussy Malware](https://github.com/ujjwal-kr/sussy-malware)**: A malware written in rust for hackarmour ctf.
 
 ```csharp
 ujjwal@win

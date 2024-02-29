@@ -1,5 +1,6 @@
 
-![image](https://media.discordapp.net/attachments/936106022576201769/1121565412455350363/image.png)
+![image](https://github.com/ujjwal-kr/ujjwal-kr/assets/38783809/47dc7b44-8ae3-4339-bacc-30b2daa1eec3)
+
 ## What I'm working on.
 - Researching on Intrusion detection methods.
 - Making [CVM](https://github.com/ujjwal-kr/cvm).

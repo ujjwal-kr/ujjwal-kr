@@ -2,9 +2,8 @@
 ![image](https://github.com/ujjwal-kr/ujjwal-kr/assets/38783809/47dc7b44-8ae3-4339-bacc-30b2daa1eec3)
 
 ## What I'm working on.
-- Solving some infosec challenges.
-- Making [CVM](https://github.com/ujjwal-kr/cvm).
-- Writing on [CrackHead Systems](https://crackhead-systems.vercel.app/).
+- Solving some hacking challenges.
+- Making [Hackarmour](https://github.com/hackarmour)
 
 ## My Work Ranked By Coolness:
 - **[Ram Programming Language](https://github.com/ujjwal-kr/ram)**: A programming language written in Rust.

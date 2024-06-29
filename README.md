@@ -3,7 +3,6 @@
 
 ## What I'm working on.
 - Solving some hacking challenges.
-- Making a concurrent pub/sub runtime.
 - Building [Hackarmour](https://github.com/hackarmour)
 
 ## My Work Ranked By Coolness:

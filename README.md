@@ -1,7 +1,7 @@
 
 ![image](https://github.com/ujjwal-kr/ujjwal-kr/assets/38783809/47dc7b44-8ae3-4339-bacc-30b2daa1eec3)
 
-## What I'm working on.
+## What I'm working on
 - Solving some hacking challenges.
 - Building [AWS from scrarch](https://github.com/ujjwal-kr/local-ec2).
 - Building [Hackarmour](https://github.com/hackarmour).

@@ -3,6 +3,7 @@
 
 ## What I'm working on.
 - Solving some hacking challenges.
+- Building [AWS from scrarch](https://github.com/ujjwal-kr/local-ec2)
 - Building [Hackarmour](https://github.com/hackarmour)
 
 ## My Work Ranked By Coolness:

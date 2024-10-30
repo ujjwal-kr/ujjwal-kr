@@ -4,7 +4,7 @@
 ## What I'm working on
 - Solving some hacking challenges.
 - Building [Hackarmour](https://github.com/hackarmour).
-- 
+
 ## My Work Ranked By Coolness:
 - **[Ram Programming Language](https://github.com/ujjwal-kr/ram)**: A programming language written in Rust.
 - **[Hackarmour Search Engine (Whitepaper)](https://zenodo.org/records/10569830)**: Design of a distributed search engine for information security.

@@ -24,16 +24,16 @@ ujjwal@win
        WM  :  dwm.exe
     Shell  :  powershell
  Terminal  :  windows terminal
-Dev Env    :  Mint with VMWare
+Dev Env    :  Arch with VBox
 Languages  :  Js/Ts, Rust, Go, C/C++
-Interests  :  Compilers, Malware & Blockchain
+Interests  :  Compilers, Malware & Distributed Systems
      Mail  :  epicujjwal@protonmail.com
   Twitter  :  @epicujjwal
   Discord  :  @epicujjwal
 ```
 
 ### Some Tech I work with:
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,rust,cpp,c,typescript,go,python,deno,sass,react,nextjs,raspberrypi,docker,angular,styledcomponents,postgres,mongodb,mysql,nestjs,nginx,redis," />
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,rust,cpp,c,typescript,go,python,java,deno,sass,react,nextjs,raspberrypi,docker,angular,styledcomponents,postgres,mongodb,mysql,nestjs,nginx,redis," />
 
 
 <br>

@@ -37,7 +37,10 @@ Interests  :  Compilers, Malware & Blockchain
 
 
 <br>
-
+<center>
+       <img src="https://nirzak-streak-stats.vercel.app/?user=ujjwal-kr&theme=Dark" />
+</center>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwal-kr&theme=xcode&hide_border=true" />
+
 
 You can mail me at epicujjwal@protonmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/epicujjwal). Will soon reach back to you.

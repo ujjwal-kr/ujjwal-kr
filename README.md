@@ -2,8 +2,7 @@
 ![image](https://github.com/ujjwal-kr/ujjwal-kr/assets/38783809/47dc7b44-8ae3-4339-bacc-30b2daa1eec3)
 
 ## What I'm working on
-- Solving some hacking challenges.
-- Building [Hackarmour](https://github.com/hackarmour).
+- Theoretical Computer Science
 
 ## My Work Ranked By Coolness:
 - **[Ram Programming Language](https://github.com/ujjwal-kr/ram)**: A programming language written in Rust.

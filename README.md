@@ -3,6 +3,7 @@
 
 ## What I'm working on
 - Theoretical Computer Science
+- Exploring NixOS
 
 ## My Work Ranked By Coolness:
 - **[Ram Programming Language](https://github.com/ujjwal-kr/ram)**: A programming language written in Rust.

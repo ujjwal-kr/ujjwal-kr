@@ -33,7 +33,7 @@ Interests  :  Compilers, Malware & Distributed Systems
 ```
 
 ### Some Tech I work with:
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,rust,cpp,c,typescript,go,python,java,deno,sass,react,nextjs,raspberrypi,docker,angular,styledcomponents,postgres,mongodb,mysql,nestjs,nginx,redis," />
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,rust,cpp,c,typescript,go,python,nix,java,deno,sass,react,nextjs,raspberrypi,docker,angular,styledcomponents,postgres,mongodb,mysql,nestjs,nginx,redis," />
 
 
 <br>

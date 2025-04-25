@@ -11,6 +11,7 @@
 - **[Appledore](https://github.com/ujjwal-kr/appledore)**: A blazingly fast in-memory database implemented in rust.
 - **[Positive Vibes](https://github.com/ujjwal-kr/positive-vibes)**: News app with parental controls implemented using the MERN stack.
 - **[Brain F*** Compiler](https://github.com/ujjwal-kr/brainf)**: with C++ in 24 hours.
+- **[Local EC2](https://github.com/ujjwal-kr/local-ec2)**: Spin up alike EC2 machines powered by docker.
 - **[Night Protocol](https://github.com/ujjwal-kr/night)** A blockchain protocol in rust and nextjs from scratch.
 - **[Bitcoin CLI](https://github.com/ujjwal-kr/bitcoin-cli)**: CLI to manage BIP39 Wallets (Nodejs).
 - **[Epictracker](https://github.com/ujjwal-kr/epictracker)**: Browser fingerprinting proof of concept: (Js/Nodejs).

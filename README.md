@@ -3,6 +3,7 @@
 
 ## What I'm working on
 - [Distributed Systems](https://github.com/ujjwal-kr/distsys-challenge)
+- Writing on [The Systems Page](https://thesystemspage.blogspot.com/)
 - Exploring NixOS
 
 ## My Work Ranked By Coolness:

@@ -10,6 +10,7 @@
 - **[Ram Programming Language](https://github.com/ujjwal-kr/ram)**: A programming language written in Rust.
 - **[Hackarmour Search Engine (Whitepaper)](https://zenodo.org/records/11372993)**: Design of a distributed search engine for information security.
 - **[Appledore](https://github.com/ujjwal-kr/appledore)**: A blazingly fast in-memory database implemented in rust.
+- **[Distributed Systems Challenges](https://github.com/ujjwal-kr/distsys-challenge)**: My solutions for the fly.io distributed systems challenge in golang.
 - **[Positive Vibes](https://github.com/ujjwal-kr/positive-vibes)**: News app with parental controls implemented using the MERN stack.
 - **[Brain F*** Compiler](https://github.com/ujjwal-kr/brainf)**: with C++ in 24 hours.
 - **[Local EC2](https://github.com/ujjwal-kr/local-ec2)**: Spin up alike EC2 machines powered by docker.

@@ -2,7 +2,7 @@
 ![image](https://github.com/ujjwal-kr/ujjwal-kr/assets/38783809/47dc7b44-8ae3-4339-bacc-30b2daa1eec3)
 
 ## What I'm working on
-- [Distributed Systems](https://github.com/ujjwal-kr/distsys-challenge)
+- Building [scratchbox.app](https://scratchbox.app)
 - Writing on [The Systems Page](https://thesystemspage.blogspot.com/)
 - Exploring NixOS
 

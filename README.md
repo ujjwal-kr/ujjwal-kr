@@ -3,6 +3,7 @@
 
 ## What I'm working on
 - Building [scratchbox.app](https://scratchbox.app)
+- Researching about AI Agent orchestration/coordination & memory.
 - Writing on [The Systems Page](https://thesystemspage.blogspot.com/)
 - Exploring NixOS
 

@@ -5,7 +5,6 @@
 - Building [scratchbox.app](https://scratchbox.app)
 - Researching about AI Agent orchestration/coordination & memory.
 - Writing on [The Systems Page](https://thesystemspage.blogspot.com/)
-- Exploring NixOS
 
 ## My Work Ranked By Coolness:
 - **[Ram Programming Language](https://github.com/ujjwal-kr/ram)**: A programming language written in Rust.

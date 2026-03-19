@@ -19,7 +19,6 @@
 - **[Bitcoin CLI](https://github.com/ujjwal-kr/bitcoin-cli)**: CLI to manage BIP39 Wallets (Nodejs).
 - **[Epictracker](https://github.com/ujjwal-kr/epictracker)**: Browser fingerprinting proof of concept: (Js/Nodejs).
 - **[A garbage collector](https://github.com/ujjwal-kr/gc-experiment)**: with C++ in 2 hours.
-- **[Sussy Malware](https://github.com/ujjwal-kr/sussy-malware)**: A malware written in rust for hackarmour ctf.
 
 ```csharp
 ujjwal@win

@@ -40,9 +40,6 @@ Interests  :  Compilers, Malware & Distributed Systems
 
 
 <br>
-<center>
-       <img src="https://nirzak-streak-stats.vercel.app/?user=ujjwal-kr&theme=Dark" />
-</center>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwal-kr&theme=xcode&hide_border=true" />
 
 

@@ -2,8 +2,7 @@
 ![image](https://github.com/ujjwal-kr/ujjwal-kr/assets/38783809/47dc7b44-8ae3-4339-bacc-30b2daa1eec3)
 
 ## What I'm working on
-- Building [scratchbox.app](https://scratchbox.app)
-- Researching about AI Agent orchestration/coordination & memory.
+- Learning formal verification.
 - Writing on [The Systems Page](https://thesystemspage.blogspot.com/)
 
 ## My Work Ranked By Coolness:
